@@ -113,7 +113,7 @@ font-weight: bold;
 </div>
 
 <div class="member">
-<img src="https://via.placeholder.com/300x200?text=Greg+the+Cat" alt="Greg the orange and white cat">
+<img src="https://img.freepik.com/premium-vector/cute-cat-vector-orange-cat-kawaii-cat_1035426-2.jpg?w=1060">
 <div class="bio">
 <h3>Greg</h3>
 <p>Greg is our creative genius. He naps on keyboards, walks across meetings, and provides fuzzy inspiration.</p>
