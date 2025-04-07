@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Our Awesome Team</title>
+<title>Meet the Pet Team!</title>
 <style>
 body {
 font-family: Arial, sans-serif;
@@ -12,14 +11,14 @@ padding: 0;
 }
 
 header {
-background-color: #4a90e2;
+background-color: #8ecae6;
 color: white;
 padding: 20px;
 text-align: center;
 }
 
 nav {
-background-color: #333;
+background-color: #219ebc;
 overflow: hidden;
 position: sticky;
 top: 0;
@@ -47,7 +46,7 @@ padding: 20px;
 width: 45%;
 margin: 2%;
 float: left;
-background-color: #f4f4f4;
+background-color: #fefae0;
 padding: 10px;
 border-radius: 8px;
 }
@@ -63,7 +62,7 @@ margin-top: 10px;
 
 footer {
 clear: both;
-background-color: #4a90e2;
+background-color: #8ecae6;
 color: white;
 text-align: center;
 padding: 10px;
@@ -85,54 +84,54 @@ font-weight: bold;
 <body>
 
 <header>
-<h1>Meet Our Team</h1>
-<p>Creative minds working together!</p>
+<h1>Meet Our Pet Team!</h1>
+<p>The fluffiest project managers around</p>
 </header>
 
 <nav>
 <a href="#">Home</a>
-<a href="#">Projects</a>
-<a href="#">About Us</a>
-<a href="#">Contact</a>
+<a href="#">Snacks</a>
+<a href="#">Play Time</a>
+<a href="#">Nap Reports</a>
 </nav>
 
 <div class="team-container">
 <div class="member">
-<img src="https://via.placeholder.com/300x200?text=Member+1" alt="Team Member 1">
+<img src="https://via.placeholder.com/300x200?text=Toby+the+Dog" alt="Toby the small dog">
 <div class="bio">
-<h3>Avery</h3>
-<p>Avery is a front-end developer with a love for animation and visual design.</p>
+<h3>Toby</h3>
+<p>Toby is a tiny dog with a huge personality. He brings joy, tail wags, and occasional chaos to the team.</p>
 </div>
 </div>
 
 <div class="member">
-<img src="https://via.placeholder.com/300x200?text=Member+2" alt="Team Member 2">
+<img src="https://via.placeholder.com/300x200?text=Hank+the+Lab" alt="Hank the lab">
 <div class="bio">
-<h3>Jordan</h3>
-<p>Jordan handles all things back-end and database with ninja-level skill.</p>
+<h3>Hank</h3>
+<p>Hank is the boss. He makes all the decisions, especially the ones involving treats and nap schedules.</p>
 </div>
 </div>
 
 <div class="member">
-<img src="https://via.placeholder.com/300x200?text=Member+3" alt="Team Member 3">
+<img src="https://via.placeholder.com/300x200?text=Greg+the+Cat" alt="Greg the orange and white cat">
 <div class="bio">
-<h3>Skyler</h3>
-<p>Skyler is the team's designer and branding expert with a keen eye for detail.</p>
+<h3>Greg</h3>
+<p>Greg is our creative genius. He naps on keyboards, walks across meetings, and provides fuzzy inspiration.</p>
 </div>
 </div>
 
 <div class="member">
-<img src="https://via.placeholder.com/300x200?text=Member+4" alt="Team Member 4">
+<img src="https://via.placeholder.com/300x200?text=Tilly+the+Kitten" alt="Tilly the kitten">
 <div class="bio">
-<h3>Casey</h3>
-<p>Casey is the project manager who keeps everyone on track and motivated.</p>
+<h3>Tilly</h3>
+<p>Tilly is the baby of the team. Curious, fearless, and always into everything—she keeps us on our toes.</p>
 </div>
 </div>
 </div>
 
 <footer>
-<p>&copy; 2025 Our Team Page. All rights reserved.</p>
-<div class="badge">Team Awesome</div>
+<p>&copy; 2025 The Pet Team. All paws reserved.</p>
+<div class="badge">Fur Real Team</div>
 </footer>
 
 </body>
