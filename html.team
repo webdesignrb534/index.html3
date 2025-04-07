@@ -121,7 +121,7 @@ font-weight: bold;
 </div>
 
 <div class="member">
-<img src="https://via.placeholder.com/300x200?text=Tilly+the+Kitten" alt="Tilly the kitten">
+<img src="https://as1.ftcdn.net/v2/jpg/02/63/04/74/1000_F_263047400_AReIHV0BYqPckVM9HUnh9czMhS4Ol2qm.jpg">
 <div class="bio">
 <h3>Tilly</h3>
 <p>Tilly is the baby of the team. Curious, fearless, and always into everything—she keeps us on our toes.</p>
