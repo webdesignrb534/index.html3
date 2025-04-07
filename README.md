@@ -97,7 +97,7 @@ font-weight: bold;
 
 <div class="team-container">
 <div class="member">
-<img src="https://cdn.creazilla.com/cliparts/6141/puppy-clipart-xl.png">
+<img src="https://img.freepik.com/premium-vector/funny-dog-clipart_1281867-1823.jpg?w=996">
 <div class="bio">
 <h3>Toby</h3>
 <p>Toby is a tiny dog with a huge personality. He brings joy, tail wags, and occasional chaos to the team.</p>
