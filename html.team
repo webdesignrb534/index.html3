@@ -105,7 +105,7 @@ font-weight: bold;
 </div>
 
 <div class="member">
-<img src="https://via.placeholder.com/300x200?text=Hank+the+Lab" alt="Hank the lab">
+<img src="https://media.istockphoto.com/id/1474618307/vector/cute-labrador-retriever-puppy-sitting-cartoon-vector-illustration.jpg?s=612x612&w=0&k=20&c=p3p78uBQyap2csx8LsRKXvhNl92LzOInZ5QVN_pAGUw=">
 <div class="bio">
 <h3>Hank</h3>
 <p>Hank is the boss. He makes all the decisions, especially the ones involving treats and nap schedules.</p>
